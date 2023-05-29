@@ -88,42 +88,50 @@ public class Principal {
 
 Se crean dos instancias de vehículo, un Coche y una Moto, se introducen varios recorridos de cada vehículo y se obtienen las siguientes velocidades de cada uno:
 
-*********CREANDO UN COCHE*************
+CREANDO UN COCHE
 Poniéndole 4 ruedas a nuestro vehículo
 La matrícula es: 4567
-***RECORRIDO 1***
+
+RECORRIDO 1
 Estamos arrancando el coche
 Estamos avanzando con el coche
 Estamos retrocediendo el coche
 Nuestro coche está parado
 Grabando la velocidad del recorrido
-***RECORRIDO 2***
+
+RECORRIDO 2
 Estamos arrancando el coche
 Estamos avanzando con el coche
 Nuestro coche está parado
 Grabando la velocidad del recorrido
-***VELOCIDADES OBTENIDAS***
+
+VELOCIDADES OBTENIDAS DEL COCHE
 Velocidad media del recorrido 1 = 125.0
 Velocidad media del recorrido 2 = 7.8
-*********CREANDO UNA MOTO*************
+
+CREANDO UNA MOTO
 Poniéndole 2 ruedas a nuestro vehículo
 La matrícula es: 6789
-***RECORRIDO 1***
+
+RECORRIDO 1
 Estamos arrancando la moto
 Estamos avanzando con la moto
 Nuestra moto está parada
 Grabando la velocidad del recorrido
-***RECORRIDO 2***
+
+RECORRIDO 2
 Estamos arrancando la moto
 Estamos avanzando con la moto
 Nuestra moto está parada
 Grabando la velocidad del recorrido
-***RECORRIDO 3***
+
+RECORRIDO 3
 Estamos arrancando la moto
 Estamos avanzando con la moto
 Nuestra moto está parada
 Grabando la velocidad del recorrido
-***VELOCIDADES OBTENIDAS***
+
+VELOCIDADES OBTENIDAS DE LA MOTO
 Velocidad media del recorrido 1 = 50.0
 Velocidad media del recorrido 2 = 11.428571428571429
 Velocidad media del recorrido 3 = 40.0
