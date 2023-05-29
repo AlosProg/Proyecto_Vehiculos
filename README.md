@@ -24,7 +24,7 @@ Con el siguiente proyecto se crean vehículos y se calculan las velocidades medi
 
 :octocat:Terminado :octocat:
 
-## **Demostración de funciones y aplicaciones en la clase principal**
+## **Demostración de la aplicación en la clase principal**
 
 package es.cursojava.directora;
 
