@@ -25,13 +25,6 @@ Con el siguiente proyecto se crean vehículos y se calculan las velocidades medi
 :octocat:Terminado :octocat:
 
 ## **Demostración de la aplicación en la clase principal**
-
-package es.cursojava.directora;
-import es.cursojava.vehiculos.Coche;
-import es.cursojava.vehiculos.Moto;
-import es.cursojava.vehiculos.Vehiculo;
-public class Principal {
-
 	public static void main(String[] args) {
 		
 				Vehiculo miCoche = new Coche("4567");
