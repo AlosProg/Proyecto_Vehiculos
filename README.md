@@ -74,7 +74,6 @@ Con el siguiente proyecto se crean vehículos y se calculan las velocidades medi
 				
 				miMoto.tacometro();
 	}
-}
 
 Se crean dos instancias de vehículo, un Coche y una Moto, se introducen varios recorridos de cada vehículo y se obtienen las siguientes velocidades de cada uno:
 
