@@ -27,12 +27,9 @@ Con el siguiente proyecto se crean vehículos y se calculan las velocidades medi
 ## **Demostración de la aplicación en la clase principal**
 
 package es.cursojava.directora;
-
 import es.cursojava.vehiculos.Coche;
 import es.cursojava.vehiculos.Moto;
 import es.cursojava.vehiculos.Vehiculo;
-
-
 public class Principal {
 
 	public static void main(String[] args) {
