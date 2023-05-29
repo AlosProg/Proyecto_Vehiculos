@@ -4,16 +4,21 @@ Con el siguiente proyecto se crean vehículos y se calculan las velocidades medi
 
 ![imagen](https://github.com/AlosProg/Proyecto_Vehiculos/assets/125483177/a1a29972-e198-402b-a45a-d6961b449fee)
 
-## **Indice**
+## **Descripción de cada clase**
 
 #### **Vehiculos (paquete)**
 ##### - Vehiculo (clase)
+######  Clase que hereda de la interfaz Conducible
 ##### - Coche (clase)
+######  Clase concreta que hereda de Vehículo
 ##### - Moto (clase)
+######  Clase concreta que hereda de Vehículo
 #### **Intefaces (paquete)**
 ##### - Conducible (interfaz)
+######  Interfaz donde se exponen los cuatro métodos que debe tener cada vehículo
 #### **Directora (paquete)**
 ##### - Principal (clase Main)
+######  Clase principal donde se crearán instancias de cada vehículo y se probarán los métodos calculando recorridos y velocidades
 
 ## **Estado del proyecto**
 
